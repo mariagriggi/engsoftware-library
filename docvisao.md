@@ -106,7 +106,9 @@
 
 ## **8. Qualidade e Implementação**
 ## 8.1 Requisitos de Implementação
-O sistema será desenvolvido para ser acessado via navegador web e dispositivos móveis, permitindo que os funcionários visualizem horários, informações dos veículos e chamados de manutenção de forma prática e acessível, otimizando o dia a dia.
+O sistema será uma aplicação web responsiva, acessível em desktops e dispositivos móveis. Deverá permitir o gerenciamento de acervo, empréstimos e reservas, além de enviar notificações automatizadas sobre prazos e penalidades. A interface será intuitiva e otimizada para facilitar o uso por bibliotecários e leitores.
+
+
 
 ## 8.2 Requisitos de Sistema
 O sistema será compatível com Windows, Linux, MacOS, Android e iOS, e exigirá conexão com a internet. Ele será otimizado para navegadores modernos.
