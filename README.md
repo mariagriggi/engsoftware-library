@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento Bibliotecário
+# Alexandria - Sistema de Gerenciamento Bibliotecário
 
 Este **Sistema de Gerenciamento Bibliotecário** foi desenvolvido para a disciplina de **Engenharia de Software**, com integração aos conceitos de **Algoritmos 2**, visando otimizar o controle e a organização de livros em bibliotecas. O sistema permite o cadastro, empréstimo, devolução e busca de livros, garantindo eficiência no gerenciamento das operações.
 
