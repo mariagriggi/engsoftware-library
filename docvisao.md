@@ -19,7 +19,9 @@
 
 ## **2. Posicionamento**
 ### **2.1 Oportunidade de Negócio**
-  Atualmente, muitas bibliotecas sofrem com sistemas desatualizados ou com a ausência de ferramentas digitais eficientes. O **Alexandria** resolve essa lacuna ao oferecer um sistema completo e intuitivo para a gestão bibliotecária.
+  O Alexandria surge como uma solução inovadora para bibliotecas que enfrentam dificuldades com a gestão manual de acervos e o uso de sistemas desatualizados. Muitos bibliotecários e instituições lidam com processos ineficazes, o que leva a erros, extravios de livros e dificuldades no controle de empréstimos. A automação de processos, como o controle de reservas, multas e prazos, pode reduzir significativamente esses problemas e otimizar a operação da biblioteca.
+
+  Além disso, com a crescente demanda por soluções tecnológicas no setor educacional, o mercado de bibliotecas, especialmente públicas e educacionais, está cada vez mais inclinado a adotar ferramentas digitais. Isso cria uma oportunidade de negócio significativa para o Alexandria, que pode atender tanto bibliotecas de diferentes portes quanto centros de leitura, escolas e universidades. A necessidade de modernização e de recursos acessíveis para a gestão de acervos oferece um grande potencial de expansão para o sistema.
 
 ### **2.2 Descrição do Problema**
 | O problema de | Afeta | Cujo impacto é | Uma boa solução seria |
@@ -32,6 +34,12 @@
 | Bibliotecas e centros de leitura | Precisam de um sistema eficiente para gestão do acervo | É uma plataforma | Automatiza o controle de usuários, livros, empréstimos e penalidades | Proporciona uma experiência fluida e organizada para bibliotecários e leitores |
 
 ## **3. Descrição dos Envolvidos e Usuários**
+  Os principais envolvidos neste projeto serão a equipe de desenvolvimento e gestão, responsáveis pela criação e administração do sistema, além dos bibliotecários e administradores, que atuarão como principais usuários da plataforma.
+
+  O público-alvo do Alexandria será os bibliotecários, que gerenciarão o acervo, e os leitores, que interagirão diretamente com a plataforma para realizar consultas, empréstimos e reservas de livros.
+
+  Os principais benefícios do sistema incluem a automação dos processos de empréstimos e reservas, o controle eficiente do acervo e a melhoria na gestão de multas e prazos.
+
 ### **3.1 Resumo dos Envolvidos**
 | Nome | Descrição | Responsabilidades |
 |------|-----------|-----------------|
@@ -39,7 +47,13 @@
 | Usuário (Leitor) | Pessoa que realiza empréstimos e reservas | Consultar acervo, realizar empréstimos e acompanhar prazos |
 | Sistema Alexandria | Plataforma digital | Registrar transações, controlar prazos e gerar relatórios |
 
-### **3.2 Principais Necessidades dos Usuários**
+# **3.2 Resumo dos Usuários**
+| Nome             | Descrição                                                   | Responsabilidades                                               |
+|------------------|-------------------------------------------------------------|-----------------------------------------------------------------|
+| **Bibliotecários**| Profissionais responsáveis pela administração da biblioteca. | Utilizar o sistema para gerenciar o acervo, controlar empréstimos e multas. |
+| **Leitores**     | Usuários da biblioteca que realizam empréstimos e reservas.  | Consultar o acervo, fazer empréstimos, reservas e acompanhar prazos. |
+
+### **3.3 Principais Necessidades dos Usuários**
 | Necessidade | Prioridade | Preocupação | Solução Proposta |
 |------------|-----------|-------------|----------------|
 | Gerenciar empréstimos e devoluções | Alta | Atrasos e extravios | Controle digital e automatizado |
@@ -49,7 +63,7 @@
 
 ## **4. Descrição da Solução**
 ### **4.1 Perspectiva do Produto**
-  O **Alexandria** moderniza bibliotecas, eliminando processos manuais e melhorando a eficiência da gestão de acervo, usuários e penalidades. Ele é acessível, seguro e fácil de usar.
+  O Alexandria visa transformar a gestão de bibliotecas, proporcionando uma plataforma moderna e eficiente. Ao substituir processos manuais por soluções digitais, o sistema garante maior agilidade no controle de acervo, empréstimos e penalidades. Ele é intuitivo e fácil de usar, permitindo que bibliotecários e leitores naveguem sem dificuldades. Além disso, a plataforma é segura, com protocolos que asseguram a integridade das informações, ao mesmo tempo em que é acessível de qualquer dispositivo, tornando a biblioteca mais organizada e eficiente no dia a dia.
 
 ### **4.2 Resumo dos Recursos**
 | Benefício para o Cliente | Recursos de Suporte |
@@ -84,6 +98,11 @@
 - Interface responsiva e compatível com navegadores modernos.
 
 ## **8. Qualidade e Implementação**
-- Desenvolvido para acesso via navegador web.
-- Compatível com Windows, Linux, MacOS, Android e iOS.
-- Design responsivo e intuitivo.
+## 8.1 Requisitos de Implementação
+O sistema será desenvolvido para ser acessado via navegador web e dispositivos móveis, permitindo que os funcionários visualizem horários, informações dos veículos e chamados de manutenção de forma prática e acessível, otimizando o dia a dia.
+
+## 8.2 Requisitos de Sistema
+O sistema será compatível com Windows, Linux, MacOS, Android e iOS, e exigirá conexão com a internet. Ele será otimizado para navegadores modernos.
+
+## 8.3 Requisitos de Design
+A interface será intuitiva, fácil de usar e responsiva, proporcionando uma experiência de usuário fluida e acessível em diversos dispositivos.
