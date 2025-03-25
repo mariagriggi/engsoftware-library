@@ -1,9 +1,9 @@
-# Documento de Visão - Alexandria
+# Documento de Visão - Alexandria (Sistema de Gerenciamento Bibliotecário)
 
 ## **Data**
 | Data | Versão | Modificação | Autor |
 |------|--------|--------------|-------|
-| 24/03/2025 | 1.0 | Criação do Documento | [Seu Nome] |
+| 24/03/2025 | 1.0 | Criação do Documento | Maria Júlia Griggi Rondon |
 
 ## **1. Introdução**
 O documento de visão define o escopo de alto nível e o propósito do software a ser desenvolvido. Esse visa estabelecer as expectativas e reduzir os riscos do produto, protegendo o cliente e os desenvolvedores do projeto.
@@ -16,7 +16,6 @@ O **Alexandria** é um sistema projetado para bibliotecas de diversos portes, pe
 
 ### **1.3 Referências**
 - Caso de Uso: **Gestão de Empréstimos e Reservas – Alexandria**.
-- RUP - Vision Document (Small Projects) - Overleaf.
 
 ## **2. Posicionamento**
 ### **2.1 Oportunidade de Negócio**
