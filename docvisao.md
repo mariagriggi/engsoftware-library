@@ -23,15 +23,22 @@
 
   Além disso, com a crescente demanda por soluções tecnológicas no setor educacional, o mercado de bibliotecas, especialmente públicas e educacionais, está cada vez mais inclinado a adotar ferramentas digitais. Isso cria uma oportunidade de negócio significativa para o Alexandria, que pode atender tanto bibliotecas de diferentes portes quanto centros de leitura, escolas e universidades. A necessidade de modernização e de recursos acessíveis para a gestão de acervos oferece um grande potencial de expansão para o sistema.
 
-### **2.2 Descrição do Problema**
-| O problema de | Afeta | Cujo impacto é | Uma boa solução seria |
-|--------------|------|----------------|----------------|
-| Falta de um sistema eficiente para bibliotecas | Bibliotecários e leitores | Atrasos, dificuldades na organização e falha na aplicação de penalidades | Digitalização e automação dos processos |
+## 2.2 Descrição do Problema
+| Tópico                        | Descrição                                           |
+|-------------------------------|-----------------------------------------------------|
+| **O problema de**              | A necessidade de gerenciar melhor uma frota de veículos pesados |
+| **Afeta**                      | A produtividade e organização da empresa          |
+| **Cujo impacto é**             | A redução do potencial de produtividade           |
+| **Uma boa solução seria**      | Automação de todo o processo                      |
 
-### **2.3 Sentença de Posição do Produto**
-| Para | Que | O Alexandria | Que | Nosso produto |
-|------|----|-------------|----|--------------|
-| Bibliotecas e centros de leitura | Precisam de um sistema eficiente para gestão do acervo | É uma plataforma | Automatiza o controle de usuários, livros, empréstimos e penalidades | Proporciona uma experiência fluida e organizada para bibliotecários e leitores |
+## 2.3 Sentença de Posição do Produto
+| Tópico                        | Descrição                                           |
+|-------------------------------|-----------------------------------------------------|
+| **Para**                       | Empresas de Fretes e Transportadoras               |
+| **Que**                         | Desejam gerenciar melhor informações sobre seus veículos e colaboradores |
+| **O Gerenciador de Frotas**    | É uma Plataforma                                  |
+| **Que**                         | Visa facilitar o gerenciamento organizacional     |
+| **Nosso produto**              | Acompanha e registra veículos e operações envolvendo a empresa e seus colaboradores |
 
 ## **3. Descrição dos Envolvidos e Usuários**
   Os principais envolvidos neste projeto serão a equipe de desenvolvimento e gestão, responsáveis pela criação e administração do sistema, além dos bibliotecários e administradores, que atuarão como principais usuários da plataforma.
