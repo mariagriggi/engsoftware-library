@@ -6,20 +6,20 @@
 | 24/03/2025 | 1.0 | Criação do Documento | Maria Júlia Griggi Rondon |
 
 ## **1. Introdução**
-O documento de visão define o escopo de alto nível e o propósito do software a ser desenvolvido. Esse visa estabelecer as expectativas e reduzir os riscos do produto, protegendo o cliente e os desenvolvedores do projeto.
+  O documento de visão define o escopo de alto nível e o propósito do software a ser desenvolvido. Esse visa estabelecer as expectativas e reduzir os riscos do produto, protegendo o cliente e os desenvolvedores do projeto.
 
 ### **1.1 Finalidade**
-Este documento tem como objetivo apresentar a visão geral do **Alexandria**, um sistema de gerenciamento bibliotecário desenvolvido para otimizar a administração de acervos, controle de usuários e gestão de empréstimos. Ele visa padronizar processos, reduzir falhas e melhorar a experiência de bibliotecários e leitores.
+  Este documento tem como objetivo apresentar a visão geral do **Alexandria**, um sistema de gerenciamento bibliotecário desenvolvido para otimizar a administração de acervos, controle de usuários e gestão de empréstimos. Ele visa padronizar processos, reduzir falhas e melhorar a experiência de bibliotecários e leitores.
 
 ### **1.2 Escopo**
-O **Alexandria** é um sistema projetado para bibliotecas de diversos portes, permitindo o cadastro e controle de livros, usuários, empréstimos e penalidades de forma automatizada. O sistema será responsivo e acessível via navegador web, facilitando o acesso a informações relevantes sobre o acervo e histórico de empréstimos.
+  O **Alexandria** é um sistema projetado para bibliotecas de diversos portes, permitindo o cadastro e controle de livros, usuários, empréstimos e penalidades de forma automatizada. O sistema será responsivo e acessível via navegador web, facilitando o acesso a informações relevantes sobre o acervo e histórico de empréstimos.
 
 ### **1.3 Referências**
 - Caso de Uso: **Gestão de Empréstimos e Reservas – Alexandria**.
 
 ## **2. Posicionamento**
 ### **2.1 Oportunidade de Negócio**
-Atualmente, muitas bibliotecas sofrem com sistemas desatualizados ou com a ausência de ferramentas digitais eficientes. O **Alexandria** resolve essa lacuna ao oferecer um sistema completo e intuitivo para a gestão bibliotecária.
+  Atualmente, muitas bibliotecas sofrem com sistemas desatualizados ou com a ausência de ferramentas digitais eficientes. O **Alexandria** resolve essa lacuna ao oferecer um sistema completo e intuitivo para a gestão bibliotecária.
 
 ### **2.2 Descrição do Problema**
 | O problema de | Afeta | Cujo impacto é | Uma boa solução seria |
@@ -49,7 +49,7 @@ Atualmente, muitas bibliotecas sofrem com sistemas desatualizados ou com a ausê
 
 ## **4. Descrição da Solução**
 ### **4.1 Perspectiva do Produto**
-O **Alexandria** moderniza bibliotecas, eliminando processos manuais e melhorando a eficiência da gestão de acervo, usuários e penalidades. Ele é acessível, seguro e fácil de usar.
+  O **Alexandria** moderniza bibliotecas, eliminando processos manuais e melhorando a eficiência da gestão de acervo, usuários e penalidades. Ele é acessível, seguro e fácil de usar.
 
 ### **4.2 Resumo dos Recursos**
 | Benefício para o Cliente | Recursos de Suporte |
@@ -87,5 +87,3 @@ O **Alexandria** moderniza bibliotecas, eliminando processos manuais e melhorand
 - Desenvolvido para acesso via navegador web.
 - Compatível com Windows, Linux, MacOS, Android e iOS.
 - Design responsivo e intuitivo.
-
-O **Alexandria** é a solução ideal para tornar a gestão de bibliotecas mais eficiente e acessível, garantindo maior controle e melhor experiência para bibliotecários e leitores.
