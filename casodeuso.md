@@ -66,6 +66,6 @@ O sistema **Alexandria** tem como objetivo automatizar a gestão de bibliotecas,
 ### 7. Aprovação
 | Data | Função | Nome | Assinatura |
 |------|--------|------|------------|
-| 24/03/2025 | Estagiária de TI | Maria Júlia Griggi Rondon | Maria Griggi |
+| 25/03/2025 | Aluna de Sistemas de Informação | Maria Júlia Griggi Rondon | Maria Griggi |
 
 
