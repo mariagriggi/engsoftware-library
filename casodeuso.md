@@ -1,7 +1,9 @@
 # Caso de Uso - Alexandria (Sistema de Gerenciamento Bibliotecário)
 
 ### Introdução
-O sistema **Alexandria** tem como objetivo automatizar a gestão de bibliotecas, otimizando o controle de acervo, usuários e empréstimos. Este caso de uso descreve o processo de **Gestão de Empréstimos e Reservas** dentro do sistema.
+O sistema **Alexandria** tem como objetivo automatizar a gestão de bibliotecas, otimizando o controle de acervo, usuários e empréstimos. Ele busca eliminar processos manuais ineficientes, proporcionando uma experiência mais fluida e organizada para bibliotecários e leitores. A plataforma permite que os bibliotecários monitorem o acervo de maneira mais eficiente, enquanto os leitores podem acessar informações detalhadas sobre os livros disponíveis, realizar empréstimos e efetuar reservas de forma simples e rápida.
+
+O Alexandria também inclui funcionalidades de notificações automáticas para lembrar os leitores sobre prazos de devolução e penalidades aplicáveis em caso de atraso. Dessa forma, busca-se reduzir significativamente problemas como livros extraviados, acervo desatualizado e dificuldades no gerenciamento de multas e reservas.
 
 ---
 
