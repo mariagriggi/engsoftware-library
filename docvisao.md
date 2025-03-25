@@ -3,7 +3,7 @@
 ## **Data**
 | Data | Versão | Modificação | Autor |
 |------|--------|--------------|-------|
-| 24/03/2025 | 1.0 | Criação do Documento | Maria Júlia Griggi Rondon |
+| 24/03/2025 | 3.0 | Atualização do Documento | Maria Júlia Griggi Rondon |
 
 ## **1. Introdução**
   O documento de visão define o escopo de alto nível e o propósito do software a ser desenvolvido. Esse visa estabelecer as expectativas e reduzir os riscos do produto, protegendo o cliente e os desenvolvedores do projeto.
