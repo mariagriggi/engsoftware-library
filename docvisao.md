@@ -26,19 +26,19 @@
 ## 2.2 Descrição do Problema
 | Tópico                        | Descrição                                           |
 |-------------------------------|-----------------------------------------------------|
-| **O problema de**              | A necessidade de gerenciar melhor uma frota de veículos pesados |
-| **Afeta**                      | A produtividade e organização da empresa          |
-| **Cujo impacto é**             | A redução do potencial de produtividade           |
-| **Uma boa solução seria**      | Automação de todo o processo                      |
+| **O problema de**              | A falta de um sistema eficiente para gerenciar livros, empréstimos e usuários em bibliotecas |
+| **Afeta**                      | Bibliotecários e leitores                          |
+| **Cujo impacto é**             | Atrasos, erros na aplicação de multas e falhas na organização do acervo |
+| **Uma boa solução seria**      | Digitalização e automação dos processos da biblioteca |
 
 ## 2.3 Sentença de Posição do Produto
 | Tópico                        | Descrição                                           |
 |-------------------------------|-----------------------------------------------------|
-| **Para**                       | Empresas de Fretes e Transportadoras               |
-| **Que**                         | Desejam gerenciar melhor informações sobre seus veículos e colaboradores |
-| **O Gerenciador de Frotas**    | É uma Plataforma                                  |
-| **Que**                         | Visa facilitar o gerenciamento organizacional     |
-| **Nosso produto**              | Acompanha e registra veículos e operações envolvendo a empresa e seus colaboradores |
+| **Para**                       | Bibliotecas e centros de leitura                   |
+| **Que**                         | Precisam de um sistema eficiente para gestão do acervo, empréstimos e usuários |
+| **O Alexandria**               | É uma plataforma digital                           |
+| **Que**                         | Automatiza o controle de livros, usuários, empréstimos e multas |
+| **Nosso produto**              | Proporciona uma experiência organizada e eficiente para bibliotecários e leitores |
 
 ## **3. Descrição dos Envolvidos e Usuários**
   Os principais envolvidos neste projeto serão a equipe de desenvolvimento e gestão, responsáveis pela criação e administração do sistema, além dos bibliotecários e administradores, que atuarão como principais usuários da plataforma.
