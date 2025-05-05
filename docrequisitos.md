@@ -49,6 +49,14 @@ O sistema será desenvolvido como um sistema independente, com interface web ace
 
 ---
 
+#### 2.4 Restrições
+- Deve ser compatível com navegadores atualizados (Chrome, Firefox, Edge)
+- Armazenamento em banco de dados relacional
+
+---
+
+
+
 
 
 
