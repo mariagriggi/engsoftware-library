@@ -55,6 +55,36 @@ O sistema será desenvolvido como um sistema independente, com interface web ace
 
 ---
 
+### 3. Requisitos Funcionais
+| Código | Descrição |
+|------------------------|-----------------|
+| RF01 | O sistema deve permitir o cadastro de livros com título, autor, editora, ano e ISBN. |
+| RF02 | O sistema deve permitir o cadastro de usuários com nome, matrícula e contato. |
+| RF03 | O sistema deve registrar o empréstimo de livros a usuários cadastrados. |
+| RF04 | O sistema deve registrar a devolução de livros e atualizar sua disponibilidade. |
+| RF05 | O sistema deve permitir a busca de livros por título, autor ou ISBN. |
+| RF06 | O sistema deve gerar relatórios de empréstimos e devoluções com filtros. |
+
+---
+
+### 4. Requisitos Não Funcionais
+| Código | Descrição |
+|------------------------|-----------------|
+| RNF01 | O sistema deve responder a qualquer solicitação do usuário em até 2 segundos. |
+| RNF02 | A interface deve ser responsiva e acessível em diferentes tamanhos de tela. |
+| RNF03 | Os dados do sistema devem ser armazenados com segurança, respeitando princípios de LGPD. |
+| RNF04 | O sistema deve estar disponível em pelo menos 99% do tempo (alta disponibilidade). |
+| RNF05 | A UI deve seguir boas práticas de usabilidade e acessibilidade (WCAG 2.1). |
+
+---
+
+### 5. Regras de Negócio
+- Um usuário pode ter no máximo 3 livros emprestados ao mesmo tempo.
+- O prazo de devolução padrão é de 14 dias corridos.
+- Em caso de atraso, será aplicada uma multa diária conforme política da biblioteca.
+- Apenas usuários cadastrados e ativos podem realizar empréstimos.
+
+
 
 
 
