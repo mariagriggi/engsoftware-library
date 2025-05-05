@@ -11,3 +11,8 @@ Apresentar a visão geral do sistema, incluindo seus objetivos, escopo e requisi
 
 ## 🎯 Objetivo do Caso de Uso
 Descrever as interações entre os usuários (bibliotecários e leitores) e o sistema, detalhando os fluxos de atividades que atendem às funcionalidades essenciais do sistema, como a busca e o empréstimo de livros.
+
+---
+
+## 🎯 Objetivo do Documento de Requsitos
+Especificar de maneira clara e detalhada os requisitos funcionais e não funcionais do sistema, fornecendo uma base sólida para o desenvolvimento, validação e manutenção do sistema. 
